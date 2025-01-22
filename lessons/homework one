@@ -1,5 +1,5 @@
 from turtle import *
-speed(30)
+speed(10)
 goto (0, 0)
 
 
