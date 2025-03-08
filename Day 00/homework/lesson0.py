@@ -13,7 +13,7 @@ right (-90)
 forward (200)
 left (90)
 forward (200)
-fillcolor ("green")
+fillcolor ("lime")
 end_fill()
 
 
