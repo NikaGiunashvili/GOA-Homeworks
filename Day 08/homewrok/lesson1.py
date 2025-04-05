@@ -1,0 +1,8 @@
+dad = int(47)
+print (dad + 25)
+mom = int(35)
+print (mom + 25)
+sister = (12)
+print (sister + 25)
+lilsis = (4)
+print (lilsis + 25)
