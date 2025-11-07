@@ -1,0 +1,28 @@
+        body {
+            background-color: #dfe9ff;
+            text-align: center;
+        }
+
+        h1 {
+            color: #002b80;
+        }
+
+        label {
+            font-size: 16px;
+            color: #333;
+        }
+
+        input {
+            width: 100%;
+            border: 1px solid #aaa;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+
+        button {
+            background-color: #0044cc;
+            color: white;
+            border: none;
+            font-size: 16px;
+            border-radius: 5px;
+        }

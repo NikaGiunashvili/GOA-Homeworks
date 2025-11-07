@@ -1,0 +1,45 @@
+        body {
+            background-color: #e8f4ff; /* ფონის ფერი */
+            font-family: 'Poppins', sans-serif;
+            color: #222;
+            padding: 0;
+        }
+
+        header {
+            background-color: #05ff00;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 28px;
+            font-weight: 600;
+            text-shadow: 1px 1px 3px black;
+        }
+
+        h2 {
+            color: #44ff00;
+            text-align: center;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            text-align: justify;
+        }
+
+        .images {
+            justify-content: center;
+            gap: 20px;
+        }
+
+        .images img {
+            width: 250px;
+            height: 160px;
+            border-radius: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);        }
+
+        footer {
+            text-align: center;
+            background-color: #1aff00;
+            color: white;
+            padding: 15px;
+        }

@@ -1,0 +1,30 @@
+        body {
+            background-color: #f3f7ff;
+            color: #38ec0b;
+        }
+
+
+        section {
+            max-width: 400px;
+            background-color: white;
+            border-radius: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #54e24a;
+            text-align: center;
+        }
+
+        ul {
+            font-size: 18px;
+        }
+
+        ul li{
+            background-color: #e8f1ff;
+            border-radius: 10px;
+        }
+
+        ul{
+            background-color: #cfe1ff;
+        }

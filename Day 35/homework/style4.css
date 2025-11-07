@@ -1,0 +1,8 @@
+        ol {
+            list-style-type: upper-roman;
+            list-style-position: outside;
+            font-size: 18px;
+            width: 320px;
+            padding: 15px 30px;
+            border-radius: 10px;
+        }
