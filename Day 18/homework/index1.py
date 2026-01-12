@@ -1,5 +1,5 @@
 
-food = ["bread", "chesee", "eggg", "fruit", "vegies"]
+food = ["bread", "chesee", "egg", "fruit", "vegies"]
 
 
 print(food)

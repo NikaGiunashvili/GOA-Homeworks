@@ -1,6 +1,6 @@
 
 
-car = "GTR_R34"
+car = "GTR R34"
 
 for i in car:
     print(i)

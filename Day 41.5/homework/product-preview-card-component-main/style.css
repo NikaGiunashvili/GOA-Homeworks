@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    margin-top: 15vh;
+}
+
+.card {
+    width: 600px;
+    height: 400px;
+    display: flex;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.card img {
+    width: 300px;
+    height: 400px;
+}
+
+.Perfume {
+    width: 300px;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Perfume h4 {
+
+    color: gray;
+    font-size: 12px;
+}
+
+.Perfume h2 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.Perfume p {
+    font-size: 14px;
+    color: gray;
+    line-height: 20px;
+}
+
+.price {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.price h1 {
+    color: #367b62;
+    font-size: 28px;
+}
+
+.price p {
+    text-decoration: line-through;
+    color: gray;
+}
+
+button {
+    height: 45px;
+    background-color: #336f59;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-size: 16px;
+}

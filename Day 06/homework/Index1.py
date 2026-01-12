@@ -1,2 +1,2 @@
-inf1 = str(input("Enter Favorite sport:"))
+inf1 = input("Enter Favorite sport:")
 print (inf1)

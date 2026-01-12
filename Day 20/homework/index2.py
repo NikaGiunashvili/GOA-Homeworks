@@ -2,8 +2,8 @@ name = input("Enter Your Name: ")
 
 has_upper = False 
 
-for char in name:
-    if char.isupper():
+for i in name:
+    if i.isupper():
         has_upper = True
         break
 

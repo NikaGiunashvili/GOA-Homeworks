@@ -1,1 +1,1 @@
-age = input(str("enter your age:"))
+age = input(int("enter your age:"))

@@ -1,8 +1,4 @@
         ul {
-            list-style-type: square;
-            list-style-position: inside;
             font-size: 18px;
             width: 300px;
-            padding: 10px;
-            border-radius: 10px;
         }

@@ -1,10 +1,8 @@
+# 5)while ციკლის საშუალებით 1 დან 10მდე დაპრინტეთ ყველა ლუწი რიცხვი
 
+i = 0
 
-num = 1
-
-while num <= 10:
-    if num % 2 == 0:
-        print(num)
-    else:
-        pass
-    num += 1
+while i <= 10:
+    if i % 2 == 0:
+        print(i)
+        i += 1
